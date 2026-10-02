@@ -3,7 +3,7 @@ E-Commerce Sales Analysis
 e-commerce sales data analysis using Power BI. 
 
 Files
-★ List of Orders.csv 
+★ List of Orders.csv https://drive.google.com/uc?export=download&id=1ocgqJ_eHlsW68WwdFJZuNxpXRbkb-rld
 ★ Order Details.csv 
 ★ Sales target.csv  
 
