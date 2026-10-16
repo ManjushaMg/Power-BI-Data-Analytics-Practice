@@ -27,3 +27,11 @@ f.Sales Performance Matrix
 g.Geographic Sales Analysis 
 h.Sales Distribution by Sub-Category
 i.Order Count Analysis by State 
+
+
+Insights
+1.2million total year to date sales
+2.1500 total orders
+3.Revenue is fluctuating over months
+4.Electronics category generated maximum revenue
+5.
